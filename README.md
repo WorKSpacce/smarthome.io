@@ -1,1 +1,1 @@
-# smarthometest.io
+# smarthometest.github.io
