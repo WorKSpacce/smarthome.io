@@ -1,1 +1,1 @@
-# smarthometest.github.io
+https://workspacce.github.io/smarthome.io/
